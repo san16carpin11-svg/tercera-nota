@@ -1,4 +1,4 @@
-public class otro {
+public class Ejercicio08
     public static void main(String[] args) {
         int[] numeros {12, 45, 8, 21, 91, 33, 11};
         int mayorNumero = nuemro[0];

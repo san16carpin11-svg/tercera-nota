@@ -1,4 +1,4 @@
-public class ejercicioo {
+public class Ejercicio07
     import java.util.Scanner;
     public static void main(String[] args) {
         Scanner leer = new Scanner(System.in);

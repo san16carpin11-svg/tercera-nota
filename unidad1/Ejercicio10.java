@@ -1,5 +1,5 @@
 package Unidad1;
-public class Ejercicio{
+public class Ejercicio10
     public static void main(String[] args) {
         float[] notas = {4,2f, 2.5f, 3.8f, 1.9f, 4.8f};
         int aprobados = 0;
